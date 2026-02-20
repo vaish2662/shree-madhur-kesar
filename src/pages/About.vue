@@ -31,9 +31,10 @@
             <div class="section-tag-alt">Who We Are</div>
             <h2 class="story-title">From Our Orchard to Your Table</h2>
             <p class="story-text">
-              Shree Madhur Kesar Mango Farm is a family-owned orchard rooted in <strong>Nanded, Maharashtra</strong>.
-              We planted our first Kesar mango trees in 2008 and by 2010 we began selling mangoes directly 
-              from our home in Nanded — farm fresh, no middlemen, no compromise on quality.
+              Shree Madhur Kesar Mango is a family-owned orchard rooted in <strong>Nanded, Maharashtra</strong>.
+              Our trees gave us their very first fruit in <strong>2008</strong> — a moment our family still 
+              cherishes. By <strong>2010</strong>, we began selling those mangoes directly from our home 
+              in Nanded, farm fresh with no middlemen and no compromise on quality.
             </p>
             <p class="story-text">
               Our philosophy has always been simple: grow mangoes the way nature intended. No artificial 
@@ -97,8 +98,8 @@ const values = [
 ];
 
 const timeline = [
-  { year: '2008', event: 'Farm Established in Nanded', desc: 'We planted our first Kesar mango saplings at our family farm in Nanded, Maharashtra — a dream rooted in rich soil and hard work.', icon: '🌱' },
-  { year: '2010', event: 'First Mangoes Sold', desc: 'After two years of nurturing the orchard, we harvested and sold our first batch of Kesar mangoes directly from our home in Nanded.', icon: '🥭' },
+  { year: '2008', event: 'First Fruit from Our Farm', desc: 'Our Kesar mango trees bore their very first fruit in Nanded — a proud moment that marked the beginning of our journey.', icon: '🌱' },
+  { year: '2010', event: 'Started Selling Mangoes', desc: 'We began selling our Kesar mangoes directly from our home in Nanded. Farm fresh, no middlemen, straight from our hands to yours.', icon: '🥭' },
   { year: '2015', event: 'Growing Beyond Nanded', desc: 'Word spread about our naturally ripened, chemical-free mangoes and we started reaching customers across Nanded and neighbouring districts.', icon: '🥳' },
   { year: '2018', event: 'Expanded to Pune & Hyderabad', desc: 'Demand grew fast. We began regularly supplying fresh Kesar mangoes to customers in Pune and Hyderabad — now our two biggest markets.', icon: '🚚' },
   { year: '2021', event: 'Mango Treats Launched', desc: 'We launched Aam Papad, dried mango slices, and fresh pulp to bring the Kesar mango experience to customers year-round.', icon: '🍬' },

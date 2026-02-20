@@ -5,7 +5,7 @@
         <span class="brand-icon">🥭</span>
         <div class="brand-text">
           <span class="brand-main">Shree Madhur</span>
-          <span class="brand-sub">Kesar Mango Farm</span>
+          <span class="brand-sub">Kesar Mango</span>
         </div>
       </RouterLink>
 

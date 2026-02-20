@@ -4,7 +4,7 @@
       <div class="footer-brand">
         <span class="footer-mango">🥭</span>
         <div>
-          <div class="footer-name">Shree Madhur Kesar Mango Farm</div>
+          <div class="footer-name">Shree Madhur Kesar Mango</div>
           <div class="footer-tagline">Naturally ripened. Delivered with love.</div>
         </div>
       </div>
@@ -14,7 +14,7 @@
         <RouterLink to="/about">About</RouterLink>
         <RouterLink to="/contact">Contact</RouterLink>
       </div>
-      <div class="footer-copy">© {{ new Date().getFullYear() }} Shree Madhur Kesar Mango Farm · Pune, Maharashtra 🍃</div>
+      <div class="footer-copy">© {{ new Date().getFullYear() }} Shree Madhur Kesar Mango · Nanded, Maharashtra 🍃</div>
     </div>
   </footer>
 </template>

@@ -1,5 +1,9 @@
 import mangoImg from "../assets/Mango_IMG.PNG";
 import kesarImg from "../assets/KesarMangoes.PNG";
+import mangoImg1 from "../assets/Mango_img1.jpeg";
+import mangoImg2 from "../assets/Mango_img2.jpeg";
+import mangoImg3 from "../assets/Mango_img3.jpeg";
+import mangoImg4 from "../assets/Mango_img4.jpeg"
 
 export default [
   {
@@ -25,7 +29,7 @@ export default [
     name: "Aam Papad (Mango Candy)",
     price: "₹250 / 500g",
     category: "Mango Treats",
-    image: mangoImg,
+    image: mangoImg1,
     badge: "New",
     description: "Traditional sun-dried mango leather made from 100% Kesar pulp. No preservatives, pure mango goodness.",
   },
@@ -34,16 +38,16 @@ export default [
     name: "Dried Mango Slices",
     price: "₹350 / 500g",
     category: "Mango Treats",
-    image: kesarImg,
+    image: mangoImg4,
     badge: null,
     description: "Chewy, naturally sweet dried mango slices. Great as a snack, in desserts, or gifting. Made from Grade-A Kesar.",
   },
   {
     id: 5,
-    name: "Mango Pulp (Rasayana)",
+    name: "Mango Pulp ",
     price: "₹180 / 500g",
     category: "Processed",
-    image: mangoImg,
+    image: mangoImg3,
     badge: null,
     description: "Ready-to-use Kesar mango pulp. Perfect for shakes, ice creams, lassi, and desserts. No added colour or sugar.",
   },
@@ -52,7 +56,7 @@ export default [
     name: "Kesar Mango Gift Box",
     price: "₹1500 / box",
     category: "Gift Sets",
-    image: kesarImg,
+    image: mangoImg2,
     badge: "Gift",
     description: "A beautifully curated gift box with fresh Kesar mangoes and assorted mango treats. Ideal for festivals and occasions.",
   },
